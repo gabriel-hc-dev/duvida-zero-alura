@@ -1,4 +1,4 @@
-# duvida-zero-alura
+# Dúvida Zero
 Projeto Imersão IA Alura 2025
 💡 Agente de IA “Dúvida Zero” — Tornando o Complexo Compreensível
 O “Dúvida Zero” é um agente inteligente desenvolvido com a API Gemini do Google, projetado para desmistificar textos complexos e facilitar o entendimento de conteúdos técnicos, científicos, jurídicos e filosóficos para qualquer pessoa, independentemente do seu nível de conhecimento.
